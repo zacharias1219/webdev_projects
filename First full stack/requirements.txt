@@ -4,6 +4,7 @@ django-cors-headers
 djangorestframwork
 djangorestframwork-simplejwt
 PyJWT
+pytz
 sqlparse
 psycopg2-binary
 python-dotenv
